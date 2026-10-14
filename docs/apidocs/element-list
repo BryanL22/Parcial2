@@ -1,0 +1,7 @@
+co.edu.poli.sw2.aplicacion.puerto.entrada
+co.edu.poli.sw2.aplicacion.puerto.salida
+co.edu.poli.sw2.aplicacion.servicio
+co.edu.poli.sw2.dominio.modelo
+co.edu.poli.sw2.infraestructura.persistencia
+co.edu.poli.sw2.infraestructura.ui
+co.edu.poli.sw2.vista
